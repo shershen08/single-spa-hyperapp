@@ -20,7 +20,7 @@ Add connector file
 ```
 import singleSpaHyperApp from 'single-spa-hyperapp';
 
-// following props must be exported from your hyperApp root file
+// following props must be exported from your Hyperapp root file
 import {hyperApp, appActions, appState, appView, mountEl} from './app'
 
 ```
