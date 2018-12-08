@@ -1,6 +1,6 @@
 ## single-spa-hyperapp
 
-Generic lifecycle hooks for [hyperApp](https://github.com/jorgebucaran/hyperapp) applications that are registered as single-spa applications.
+Generic lifecycle hooks for [Hyperapp](https://github.com/jorgebucaran/hyperapp) applications that are registered as single-spa applications.
 
 ## Example
 
