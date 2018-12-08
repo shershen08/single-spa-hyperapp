@@ -1,0 +1,16 @@
+{
+    "name": "single-spa-hyperapp",
+    "version": "0.1.0",
+    "description": "A single spa plugin for hyperApp apps",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/shershen08/single-spa-hyperapp.git"
+    },
+    "keywords": ["single", "page", "application", "spa", "hyperapp"],
+    "author": "Mikhail Kuznetcov",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/shershen08/single-spa-hyperapp/issues"
+    },
+    "homepage": "https://github.com/shershen08/single-spa-hyperapp",
+  }
